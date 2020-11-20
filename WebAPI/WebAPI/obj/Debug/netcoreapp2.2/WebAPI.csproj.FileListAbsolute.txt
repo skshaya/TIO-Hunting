@@ -1,0 +1,78 @@
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Role Authorization - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Jaffna-Project\Angular\New folder\Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+D:\shaya_project\Project_TIO\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
