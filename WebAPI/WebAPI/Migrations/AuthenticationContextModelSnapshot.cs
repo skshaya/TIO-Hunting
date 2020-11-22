@@ -189,6 +189,60 @@ namespace WebAPI.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
+            modelBuilder.Entity("WebAPI.Models.Candidate", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Address");
+
+                    b.Property<DateTime>("DOB");
+
+                    b.Property<string>("Designation");
+
+                    b.Property<string>("Email");
+
+                    b.Property<string>("Experience");
+
+                    b.Property<string>("FirstName");
+
+                    b.Property<bool>("IsEnable");
+
+                    b.Property<string>("LastName");
+
+                    b.Property<string>("PhoneNumber");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Candidate");
+                });
+
+            modelBuilder.Entity("WebAPI.Models.TimeSchedule", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("CId");
+
+                    b.Property<int?>("CandidateId");
+
+                    b.Property<string>("Comments");
+
+                    b.Property<DateTime?>("EndDate");
+
+                    b.Property<bool>("IsActive");
+
+                    b.Property<DateTime?>("StartDate");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CandidateId");
+
+                    b.ToTable("TimeSchedule");
+                });
+
             modelBuilder.Entity("WebAPI.Models.ApplicationUser", b =>
                 {
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
@@ -242,6 +296,13 @@ namespace WebAPI.Migrations
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("WebAPI.Models.TimeSchedule", b =>
+                {
+                    b.HasOne("WebAPI.Models.Candidate")
+                        .WithMany("timeSchedules")
+                        .HasForeignKey("CandidateId");
                 });
 #pragma warning restore 612, 618
         }

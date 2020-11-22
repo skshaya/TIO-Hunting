@@ -27,13 +27,23 @@ namespace WebAPP.Controllers
                 var result = httpResponseMessage.Content.ReadAsStringAsync().Result;
                 candidates = JsonConvert.DeserializeObject<List<Candidate>>(result);
             }
+
             return View(candidates);
         }
 
         // GET: CandidateController/Details/5
-        public ActionResult Details(int id)
+        public async Task<ActionResult> DetailsAsync(int id)
         {
-            return View();
+            Candidate candidate = new Candidate();
+            HttpClient httpClient = _api.Initial();
+            HttpResponseMessage httpResponseMessage = await httpClient.GetAsync("api/candidates/" + id);
+
+            if (httpResponseMessage.IsSuccessStatusCode)
+            {
+                var result = httpResponseMessage.Content.ReadAsStringAsync().Result;
+                candidate = JsonConvert.DeserializeObject<Candidate>(result);
+            }
+            return View(candidate);
         }
 
         // GET: CandidateController/Create
@@ -49,9 +59,17 @@ namespace WebAPP.Controllers
         {
             try
             {
-               var content = new StringContent(JsonConvert.SerializeObject(candidate), Encoding.UTF8, "application/json");
+                DateTime nowTime = DateTime.Now;
+                Random gen = new Random();
+                int range = (60 * 9) - 30; //min range
+                DateTime? scheduledStartTime = new DateTime(nowTime.Year, nowTime.Month, nowTime.Day, 8, 0, 0, 0);
+                candidate.StartDate = scheduledStartTime.Value.AddMinutes(gen.Next(range));
+                candidate.EndDate = candidate.StartDate.Value.AddMinutes(30);
+
+                var content = new StringContent(JsonConvert.SerializeObject(candidate), Encoding.UTF8, "application/json");
                 HttpClient httpClient = _api.Initial();
                 HttpResponseMessage httpResponseMessage = await httpClient.PostAsync("api/candidates", content);
+
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -61,19 +79,35 @@ namespace WebAPP.Controllers
         }
 
         // GET: CandidateController/Edit/5
-        public ActionResult Edit(int id)
+        public async Task<ActionResult> EditAsync(int id)
         {
-            return View();
+            Candidate candidate = new Candidate();
+            HttpClient httpClient = _api.Initial();
+            HttpResponseMessage httpResponseMessage = await httpClient.GetAsync("api/candidates/" + id);
+
+            if (httpResponseMessage.IsSuccessStatusCode)
+            {
+                var result = httpResponseMessage.Content.ReadAsStringAsync().Result;
+                candidate = JsonConvert.DeserializeObject<Candidate>(result);
+            }
+            return View(candidate);
         }
 
         // POST: CandidateController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> EditAsync(int id, Candidate candidate)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    var content = new StringContent(JsonConvert.SerializeObject(candidate), Encoding.UTF8, "application/json");
+                    HttpClient httpClient = _api.Initial();
+                    HttpResponseMessage httpResponseMessage = await httpClient.PutAsync("api/candidates/" + id, content);
+                    return RedirectToAction(nameof(Index));
+                }
+                return View(candidate);
             }
             catch
             {
@@ -82,18 +116,30 @@ namespace WebAPP.Controllers
         }
 
         // GET: CandidateController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> DeleteAsync(int id)
         {
-            return View();
+            Candidate candidate = new Candidate();
+            HttpClient httpClient = _api.Initial();
+            HttpResponseMessage httpResponseMessage = await httpClient.GetAsync("api/candidates/" + id);
+
+            if (httpResponseMessage.IsSuccessStatusCode)
+            {
+                var result = httpResponseMessage.Content.ReadAsStringAsync().Result;
+                candidate = JsonConvert.DeserializeObject<Candidate>(result);
+            }
+            return View(candidate);
         }
 
         // POST: CandidateController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<ActionResult> DeleteAsync(int id, Candidate candidate)
         {
             try
             {
+                var content = new StringContent(JsonConvert.SerializeObject(candidate), Encoding.UTF8, "application/json");
+                HttpClient httpClient = _api.Initial();
+                HttpResponseMessage httpResponseMessage = await httpClient.DeleteAsync("api/candidates/" + id);
                 return RedirectToAction(nameof(Index));
             }
             catch

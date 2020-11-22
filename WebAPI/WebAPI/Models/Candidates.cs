@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace WebAPI.Models
 {
-    public class Candidate
+    public class Candidates
     {
-        public int  Id { get; set; }
+        public int Id { get; set; }
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -18,5 +18,10 @@ namespace WebAPI.Models
         public DateTime DOB { get; set; }
         public string PhoneNumber { get; set; }
         public bool IsEnable { get; set; }
+
+        public string Interviewer { get; set; }
+        public DateTime? StartDate { get; set; }
+        public DateTime? EndDate { get; set; }
+        public string Comments { get; set; }
     }
 }

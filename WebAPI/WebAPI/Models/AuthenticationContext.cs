@@ -17,6 +17,8 @@ namespace WebAPI.Models
 
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
-        public DbSet<WebAPI.Models.Candidate> Candidate { get; set; }
+        public DbSet<WebAPI.Models.Candidates> Candidates { get; set; }
+
+        public DbSet<WebAPI.Models.TimeSchedule> TimeSchedule { get; set; }
     }
 }

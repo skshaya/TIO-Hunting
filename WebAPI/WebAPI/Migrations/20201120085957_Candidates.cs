@@ -21,6 +21,10 @@ namespace WebAPI.Migrations
                    Experience = table.Column<string>(maxLength: 256, nullable: true),
                    DOB = table.Column<DateTime>(maxLength: 256, nullable: true),
                    PhoneNumber = table.Column<string>(nullable: true),
+                   StartDate = table.Column<DateTime>(nullable: true),
+                   EndDate = table.Column<DateTime>(nullable: true),
+                   Interviewer = table.Column<string>(nullable: true),
+
                    IsEnable = table.Column<bool>(nullable: false),
 
                },

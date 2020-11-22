@@ -6013,11 +6013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\shaya_project\\Project_TIO\\WebAPP\\WebAPP.csproj",
+      "projectUniqueName": "D:\\shaya_project\\Project_TIO\\TIO-Hunting\\WebAPP\\WebAPP.csproj",
       "projectName": "WebAPP",
-      "projectPath": "D:\\shaya_project\\Project_TIO\\WebAPP\\WebAPP.csproj",
+      "projectPath": "D:\\shaya_project\\Project_TIO\\TIO-Hunting\\WebAPP\\WebAPP.csproj",
       "packagesPath": "C:\\Users\\sathiyan.s\\.nuget\\packages\\",
-      "outputPath": "D:\\shaya_project\\Project_TIO\\WebAPP\\obj\\",
+      "outputPath": "D:\\shaya_project\\Project_TIO\\TIO-Hunting\\WebAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
